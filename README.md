@@ -46,7 +46,8 @@ except Exception as e:
 ```
 
 ## Output:
-![image](https://github.com/dharanielango/Ex-8--AAI/assets/94530523/8abad5a5-4928-4d05-859b-dfe61b52dd40)
+![image](https://github.com/dharanielango/Ex-8--AAI/assets/94530523/213ea873-8e3a-4439-a8c4-0eca981c62c1)
+
 
 
 ## Result:
